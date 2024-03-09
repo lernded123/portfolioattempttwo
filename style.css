@@ -70,6 +70,7 @@ a:hover {
 
 #hamburger-nav {
   display: none;
+  /* background-color: lightgray;*/
 }
 
 .hamburger-menu {
@@ -167,6 +168,11 @@ section {
   justify-content: center;
   gap: 5rem;
   height: 80vh;
+  background-color: #5dbaff;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  color: white;
 }
 
 .section__pic-container {
@@ -371,6 +377,7 @@ article .icon {
 
 #projects {
   position: relative;
+  padding-bottom: 100px;
 }
 
 .color-container {
@@ -407,6 +414,7 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
+  padding-bottom: 50px;
 }
 
 .contact-info-upper-container {
